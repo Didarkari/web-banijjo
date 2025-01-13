@@ -1,0 +1,57 @@
+
+.log-out{
+  display: block;
+  width: 100%;
+  padding: 12px 22px 15px;
+  clear: both;
+  font-weight: 400;
+  color: #686972;
+  text-align: inherit;
+  white-space: nowrap;
+  background-color: transparent;
+  border: 0;
+  font-size: 13px;
+  line-height: 0.4;
+
+}
+
+.log-out:hover a {
+  color: firebrick;
+}
+
+.footer{
+  position: absolute;
+  bottom: 0px;
+}
+.category-btn{
+
+  margin: 10px 10px 0px 0px;
+}
+
+.card-header{
+ border: none;
+}
+
+.pagination{
+  margin-top: 20px;
+}
+
+.page-item.active .page-link {
+  background-color: #29e54e;
+  border-color: #000000;
+}
+.page-item.active .page-link:hover {
+  color: #ffffff;
+  background-color: #29bce5;
+  border-color: #000000;
+}
+
+.img-table{
+  width: 30%;
+}
+.product-img {
+
+  width: 80px;
+  height: auto;
+}
+

@@ -1,0 +1,13 @@
+
+
+.customer-log-out {
+
+  padding-left: 10px;
+  padding-bottom: 10px;
+  
+}
+
+.customer-log-out:hover a {
+  color:white;
+  font-size: 12px;
+}
